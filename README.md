@@ -5,4 +5,4 @@ For my material, I used a photo of the wall of my apartment which has textured p
 This project helped me grasp the concept of parameters and groups as well as how to make many material instances. 
 
 Introduction to Physically-Based Rendering Materials in Unreal Engine 4 tempate
-Authored By: Aaron Bacon
+* Authored By: Aaron Bacon
